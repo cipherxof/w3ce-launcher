@@ -1,0 +1,18 @@
+{
+  "data": {
+    "game": {
+      "latest": {
+        "name": "",
+        "version": "1.29.2",
+        "path": "https://www.hiveworkshop.com/downloads/Patches/Files_1.29.2.zip",
+        "size": "1314778496",
+        "md5": "de32f8a14b0c39a4c6252f76b94c9a40",
+        "entry": "Warcraft III.exe",
+        "decompressed_path": "",
+        "segments": [],
+        "package_size": "1396901833"
+      },
+      "diffs": []
+    }
+  }
+}
