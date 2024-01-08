@@ -1,0 +1,66 @@
+{
+    "AppPush": [
+    ],
+    "RegionPush": [
+        {
+            "MsgId": 7000005,
+            "IsDisposable": true,
+            "Severity": "Warning",
+            "RegionProfile": "SRGlb",
+            "Title": "[EN] Honkai: Star Rail Launch 'Global Distribution' error",
+            "Message": "Heyya Trailblazers!\r\nWe have noticed that on the latest update for HSR, there is a chance that your game will not start and give out 'Global Distribution' error. We have implemented a fix, but in the event that you still cannot open the game, click the button below for a workaround.",
+            "Show": true,
+            "TimeBegin": "2023-12-30T00:00:00+08:00",
+            "TimeEnd": "2024-01-15T00:00:00+08:00",
+            "ActionProperty": {
+                "ActionType": "ClickLink",
+                "ActionValue": {
+                    "URL": "https://github.com/CollapseLauncher/Collapse/issues/350",
+                    "Description": "Game Launch Workaround",
+                    "GlyphIcon": "",
+                    "GlyphFont": "FontAwesomeSolid"
+                }
+            }
+        },
+        {
+            "MsgId": 8000005,
+            "IsDisposable": true,
+            "Severity": "Warning",
+            "RegionProfile": "SRCN",
+            "Title": "[EN] Honkai: Star Rail Launch 'Global Distribution' error",
+            "Message": "Heyya Trailblazers!\\r\\nWe have noticed that on the latest update for HSR, there is a chance that your game will not start and give out 'Global Distribution' error. We have implemented a fix, but in the event that you still cannot open the game, click the button below for a workaround.",
+            "Show": true,
+            "TimeBegin": "2023-12-30T00:00:00+08:00",
+            "TimeEnd": "2023-01-15T00:00:00+08:00",
+            "ActionProperty": {
+                "ActionType": "ClickLink",
+                "ActionValue": {
+                    "URL": "https://github.com/CollapseLauncher/Collapse/issues/350",
+                    "Description": "Game Launch Workaround",
+                    "GlyphIcon": "",
+                    "GlyphFont": "FontAwesomeSolid"
+                }
+            }
+        },
+        {
+            "MsgId": 9000005,
+            "IsDisposable": true,
+            "Severity": "Warning",
+            "RegionProfile": "HSRCNBilibili",
+            "Title": "[EN] Honkai: Star Rail Launch 'Global Distribution' error",
+            "Message": "Heyya Trailblazers!\\r\\nWe have noticed that on the latest update for HSR, there is a chance that your game will not start and give out 'Global Distribution' error. We have implemented a fix, but in the event that you still cannot open the game, click the button below for a workaround.",
+            "Show": true,
+            "TimeBegin": "2023-12-30T00:00:00+08:00",
+            "TimeEnd": "2023-01-15T00:00:00+08:00",
+            "ActionProperty": {
+                "ActionType": "ClickLink",
+                "ActionValue": {
+                    "URL": "https://github.com/CollapseLauncher/Collapse/issues/350",
+                    "Description": "Game Launch Workaround",
+                    "GlyphIcon": "",
+                    "GlyphFont": "FontAwesomeSolid"
+                }
+            }
+        }
+    ]
+}
